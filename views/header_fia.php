@@ -27,21 +27,10 @@
             <div class="collapse navbar-collapse" id="menu">
                 <ul class="nav navbar-nav">
                     <?php
-                    foreach ($menu as $k => $v) {
+                    foreach ($menu_fia as $k => $v) {
                         echo "<li><a href='index.php?pg=$k'>$v</a></li>";
                     }
                     ?>
-                    <li class="dropdown">
-                        <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button"
-                        aria-haspopup="true" aria-expanded="false">Themes <span class="caret"></span></a>
-                        <ul class="dropdown-menu">
-                            <?php
-                            foreach ($menu_themes as $k => $v) {
-                                echo "<li><a href='index.php?pg=$k'>$v</a></li>";
-                            }
-                            ?>
-                        </ul>
-                    </li>
                 </ul>
             </div>
         </div>
