@@ -28,4 +28,8 @@ $menu_themes = array(
 $menu_fia = array(
     "f1" => "Formula 1"
 );
+
+$menu_fifa = array(
+    "wc" => "World Cup"
+);
 ?>
