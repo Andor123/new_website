@@ -36,4 +36,8 @@ $menu_fifa = array(
 $menu_fim = array(
     "mgp" => "MotoGP"
 );
+
+$menu_fiba = array(
+    "bwc" => "Basketball World Cup"
+);
 ?>

@@ -1,14 +1,14 @@
-function showTable3() {
-    var form = $("#table3");
+function showTable6() {
+    var form = $("#table6");
     $.ajax({
         method: "POST",
-        url: "index.php?pg=wc&ajax=1",
+        url: "index.php?pg=bwc&ajax=1",
         dataType: "json",
         data: form.serializeArray(),
         success: function (response) {
             console.log(response);
-            $("#showTable3").fadeOut(400, function () {
-                $("#showTable3").html(response.html).fadeIn();
+            $("#showTable6").fadeOut(400, function () {
+                $("#showTable6").html(response.html).fadeIn();
             });
         },
         error: function (jqXHR, textStatus, errorThrown) {
