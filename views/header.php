@@ -9,6 +9,8 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery-ui.min.js"></script>
     <script src="js/script.js"></script>
+    <script src="js/script2.js"></script>
+    <script src="js/script3.js"></script>
 </head>
 <body>
 
@@ -22,7 +24,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="">New Website</a>
+                <a class="navbar-brand" href="index.php">New Website</a>
             </div>
             <div class="collapse navbar-collapse" id="menu">
                 <ul class="nav navbar-nav">

@@ -29,7 +29,7 @@
             <div class="collapse navbar-collapse" id="menu">
                 <ul class="nav navbar-nav">
                     <?php
-                    foreach ($menu_fia as $k => $v) {
+                    foreach ($menu_fim as $k => $v) {
                         echo "<li><a href='index.php?pg=$k'>$v</a></li>";
                     }
                     ?>

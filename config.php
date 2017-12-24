@@ -32,4 +32,8 @@ $menu_fia = array(
 $menu_fifa = array(
     "wc" => "World Cup"
 );
+
+$menu_fim = array(
+    "mgp" => "MotoGP"
+);
 ?>
