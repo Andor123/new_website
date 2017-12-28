@@ -26,7 +26,8 @@ $menu_themes = array(
 );
 
 $menu_fia = array(
-    "f1" => "Formula 1"
+    "f1" => "Formula 1",
+    "wrc" => "WRC"
 );
 
 $menu_fifa = array(
