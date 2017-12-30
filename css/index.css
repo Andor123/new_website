@@ -1,0 +1,105 @@
+header > .navbar {
+    background-color: green;
+}
+
+header > .navbar > .container-fluid > .navbar-header > button {
+    background-color: green;
+}
+
+header > .navbar > .container-fluid > .navbar-header > button > .icon-bar {
+    background-color: white;
+}
+
+header > .navbar > .container-fluid > .navbar-header > button:hover {
+    background-color: white;
+}
+
+header > .navbar > .container-fluid > .navbar-header > button:hover > .icon-bar {
+    background-color: green;
+}
+
+header > .navbar > .container-fluid > .navbar-header > a {
+    color: white;
+}
+
+header > .navbar > .container-fluid > .navbar-collapse > .navbar-nav > li > a {
+    color: white;
+}
+
+header > .navbar > .container-fluid > .navbar-collapse > .navbar-nav > li > a:hover {
+    color: black;
+}
+
+header > .navbar > .container-fluid > .navbar-collapse > .navbar-nav > .dropdown > a {
+    background-color: green;
+}
+
+header > .navbar > .container-fluid > .navbar-collapse > .navbar-nav > .dropdown > a:hover {
+    background-color: white;
+}
+
+header > .navbar > .container-fluid > .navbar-collapse > .navbar-nav > .dropdown > .dropdown-menu {
+    background-color: green;
+}
+
+header > .navbar > .container-fluid > .navbar-collapse > .navbar-nav > .dropdown > .dropdown-menu > li > a {
+    background-color: green;
+    color: white;
+}
+
+header > .navbar > .container-fluid > .navbar-collapse > .navbar-nav > .dropdown > .dropdown-menu > li > a:hover {
+    background-color: white;
+    color: black;
+}
+
+footer > .panel-footer {
+    background-color: green;
+    color: white;
+}
+
+section > .jumbotron {
+    background-color: green;
+}
+
+section > .jumbotron > .container-fluid > h1 {
+    color: white;
+}
+
+section > .jumbotron > .container-fluid > p {
+    color: white;
+}
+
+section > .jumbotron > .container-fluid > p > .btn-default {
+    background-color: green;
+    color: white;
+}
+
+section > .jumbotron > .container-fluid > p > .btn-default:hover {
+    background-color: white;
+    color: green;
+}
+
+section > .container-fluid > .text-center > div > .center-block > img {
+    width: 500px;
+    height: 250px;
+}
+
+section > .container-fluid > .text-center > div > .center-block > h2 > .btn-default {
+    background-color: green;
+    color: white;
+}
+
+section > .container-fluid > .text-center > div > .center-block > h2 > .btn-default:hover {
+    background-color: white;
+    color: green;
+}
+
+section > .container-fluid > .text-center > button {
+    background-color: green;
+    color: white;
+}
+
+section > .container-fluid > .text-center > button:hover {
+    background-color: white;
+    color: green;
+}

@@ -6,7 +6,7 @@ include_once "header.php";
         <div class="container-fluid">
             <h1>Welcome to New Website!</h1>
             <p>We are here to show you the newest things in our world.</p>
-            <p><a role="button" class="btn btn-primary btn-lg" href="index.php?pg=intro">Go to introduction</a></p>
+            <p><a role="button" class="btn btn-default btn-lg" href="index.php?pg=intro">Go to introduction</a></p>
         </div>
     </div>
     <div class="container-fluid">
