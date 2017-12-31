@@ -31,11 +31,13 @@ $menu_fia = array(
 );
 
 $menu_fifa = array(
-    "wc" => "World Cup"
+    "wc" => "World Cup",
+    "wwc" => "Women's World Cup"
 );
 
 $menu_fim = array(
-    "mgp" => "MotoGP"
+    "mgp" => "MotoGP",
+    "sbk" => "Superbike"
 );
 
 $menu_fiba = array(

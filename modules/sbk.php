@@ -1,6 +1,6 @@
 <?php
 if (isset($_GET["ajax"]) && $_GET["ajax"] == 1) {
-    $sql = "SELECT championship_year, rider_name, rider_country, team_name, team_country FROM mgp_wrc ORDER BY championship_year ASC";
+    $sql = "SELECT championship_year, rider_name, rider_country, team_name, team_country FROM sbk_wrc ORDER BY championship_year ASC";
     $result = mysqli_query($connection, $sql);
 
     $html = "";
@@ -37,7 +37,7 @@ if (isset($_GET["ajax"]) && $_GET["ajax"] == 1) {
 }
 
 if (isset($_GET["ajax"]) && $_GET["ajax"] == 2) {
-    $sql = "SELECT championship_year, team_name, team_country FROM mgp_wmc ORDER BY championship_year ASC";
+    $sql = "SELECT championship_year, team_name, team_country FROM sbk_wmc ORDER BY championship_year ASC";
     $result = mysqli_query($connection, $sql);
 
     $html = "";
@@ -68,5 +68,5 @@ if (isset($_GET["ajax"]) && $_GET["ajax"] == 2) {
     echo json_encode($response);
     exit();
 }
-include_once "views/mgp.php";
+include_once "views/sbk.php";
 ?>

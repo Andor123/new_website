@@ -17,6 +17,9 @@
     <script src="js/script6.js"></script>
     <script src="js/script7.js"></script>
     <script src="js/script8.js"></script>
+    <script src="js/script9.js"></script>
+    <script src="js/script10.js"></script>
+    <script src="js/script11.js"></script>
 </head>
 <body>
 
