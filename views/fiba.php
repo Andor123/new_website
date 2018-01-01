@@ -17,6 +17,12 @@ include_once "header_fiba.php";
                         <h2><a type="button" class="btn btn-default btn-lg" href="index.php?pg=bwc">Basketball World Cup</a></h2>
                     </div>
                 </div>
+                <div class="col-xs-12 col-sm-9 col-md-6 col-lg-3">
+                    <div class="center-block">
+                        <img src="images/wbwc.jpg" alt="wbwc" class="img-responsive img-circle">
+                        <h2><a type="button" class="btn btn-default btn-lg" href="index.php?pg=wbwc">Women's Basketball World Cup</a></h2>
+                    </div>
+                </div>
             </div>
         </div>
     </section>

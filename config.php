@@ -41,6 +41,7 @@ $menu_fim = array(
 );
 
 $menu_fiba = array(
-    "bwc" => "Basketball World Cup"
+    "bwc" => "Basketball World Cup",
+    "wbwc" => "Women's Basketball World Cup"
 );
 ?>

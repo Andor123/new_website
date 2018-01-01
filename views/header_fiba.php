@@ -20,6 +20,7 @@
     <script src="js/script9.js"></script>
     <script src="js/script10.js"></script>
     <script src="js/script11.js"></script>
+    <script src="js/script12.js"></script>
 </head>
 <body>
 
