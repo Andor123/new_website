@@ -23,6 +23,12 @@ include_once "header_fia.php";
                         <h2><a type="button" class="btn btn-default btn-lg" href="index.php?pg=wrc">WRC</a></h2>
                     </div>
                 </div>
+                <div class="col-xs-12 col-sm-9 col-md-6 col-lg-3">
+                    <div class="center-block">
+                        <img src="images/wec.jpg" alt="wec" class="img-responsive img-circle">
+                        <h2><a type="button" class="btn btn-default btn-lg" href="index.php?pg=wec">WEC</a></h2>
+                    </div>
+                </div>
             </div>
         </div>
     </section>

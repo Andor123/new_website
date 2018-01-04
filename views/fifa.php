@@ -23,6 +23,12 @@ include_once "header_fifa.php";
                         <h2><a type="button" class="btn btn-default btn-lg" href="index.php?pg=wwc">Women's World Cup</a></h2>
                     </div>
                 </div>
+                <div class="col-xs-12 col-sm-9 col-md-6 col-lg-3">
+                    <div class="center-block">
+                        <img src="images/u20wc.jpg" alt="u20wc" class="img-responsive img-circle">
+                        <h2><a type="button" class="btn btn-default btn-lg" href="index.php?pg=u20wc">U-20 World Cup</a></h2>
+                    </div>
+                </div>
             </div>
         </div>
     </section>

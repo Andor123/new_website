@@ -27,12 +27,14 @@ $menu_themes = array(
 
 $menu_fia = array(
     "f1" => "Formula 1",
-    "wrc" => "WRC"
+    "wrc" => "WRC",
+    "wec" => "WEC"
 );
 
 $menu_fifa = array(
     "wc" => "World Cup",
-    "wwc" => "Women's World Cup"
+    "wwc" => "Women's World Cup",
+    "u20wc" => "U-20 World Cup"
 );
 
 $menu_fim = array(
