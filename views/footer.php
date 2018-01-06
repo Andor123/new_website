@@ -1,6 +1,6 @@
 <footer>
     <div class="panel-footer text-center">
-        &copy; 2017 Salamon Andor
+        &copy; 2018 Salamon Andor
     </div>
 </footer>
 

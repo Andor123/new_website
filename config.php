@@ -39,7 +39,8 @@ $menu_fifa = array(
 
 $menu_fim = array(
     "mgp" => "MotoGP",
-    "sbk" => "Superbike"
+    "sbk" => "Superbike",
+    "ewc" => "EWC"
 );
 
 $menu_fiba = array(
